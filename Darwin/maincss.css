@@ -1,0 +1,47 @@
+strong{
+    color:#1c2716;
+    margin-right:1em;
+}
+li{
+    font-size:1.2em;
+    color:#d6dfcc;
+    margin-top:1.2em;
+}
+h2{
+    color:#d6dfcc;
+}
+#charles_darwinbtn{
+    width: 80%;
+    overflow: hidden;
+    text-overflow:ellipsis;
+}
+.main-block{
+    background: linear-gradient(to top, #4b5344 50%, #717a67 80%)
+}
+.main-title{
+    color: #d6dfcc;
+    font-size:5em;
+    text-shadow: 6px 6px 0px rgba(0,0,0,0.2); 
+    margin-top:1em; 
+    margin-bottom:0.5em;
+}
+.quote{
+    color: #d6dfcc;
+    font-size:2.5em;
+    font-style:italic;   
+}
+.darwin-info{
+    color: #d6dfcc;
+    font-size:1.5em;
+}
+.darwin-link{
+    padding-bottom:1em; 
+    text-align: center;
+}
+.footer-style{
+    color: #d6dfcc;
+     max-height:30px;
+}
+.body-color{
+    background-color: #383D3E;
+}
